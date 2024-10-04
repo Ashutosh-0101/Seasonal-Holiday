@@ -1,0 +1,22 @@
+{
+    "products":[
+        {
+            "img":"",
+            "pName":"",
+            "price":2 ,
+            "discPrice":1,
+            "dis":26
+    
+        },
+        {
+            "img":"",
+            "pName":"",
+            "price":2 ,
+            "discPrice":1,
+            "dis":26
+    
+        }
+    ]
+
+    
+}

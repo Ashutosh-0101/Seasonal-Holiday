@@ -1,0 +1,19 @@
+.mainDiv{
+    background-image:url("https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-2RgmJOxbvBbg-hr-search.png?v=1724402439") ;
+    background-repeat: no-repeat;
+    /* background-color: blue; */
+    background-position: center; /* Center the image */
+    background-size: cover;
+
+}
+.searchDiv{
+    background-color: white;
+} 
+.help{
+    background-color: #f4f4fe;
+}
+.button{
+    background-color: black;
+    color: white;
+    
+}

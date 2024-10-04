@@ -1,0 +1,53 @@
+{
+    "review":[
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-aTx5RyOHSrimg-rv-1.png?v=1716173405",
+            "reviewText":"Great quailing and perfect for our Dads birthday. Hes not a bracelet person but he LOVES this one. Score 1 for the kids.",
+            "customerName":"Jayla Graham",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-z4HuP8Py3wimg-rv-2.png?v=1716195279",
+            "reviewText":"Looked great and feels like a great quality material",
+            "customerName":"Meredith Nuñez",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-sICdfgcSK2img-rv-3.png?v=1716195561",
+            "reviewText":"Looked great and feels like a great quality material",
+            "customerName":"Meredith Nuñez",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-88Xg4DmnHrimg-rv-4.png?v=1716195723",
+            "reviewText":"The name tags are so small for a man's wrist and the kids names are tiny. I don't like it and he won't wear it due to it being not very masuline.",
+            "customerName":"Erika svichla",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-aTx5RyOHSrimg-rv-1.png?v=1716173405",
+            "reviewText":"Love the quality of this bracelet.",
+            "customerName":"Jayla Graham",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-z4HuP8Py3wimg-rv-2.png?v=1716195279",
+            "reviewText":"The name tags are so small for a man's wrist and the kids names are tiny. I don't like it and he won't wear it due to it being not very masuline.",
+            "customerName":"Meredith Nuñez",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-sICdfgcSK2img-rv-3.png?v=1716195561",
+            "reviewText":"Looked great and feels like a great quality material",
+            "customerName":"Meredith Nuñez",
+            "verified":"true"
+        },
+        {
+            "proImg":"https://cdn.shopify.com/s/files/1/0726/1221/7115/files/ecom-no-replace-88Xg4DmnHrimg-rv-4.png?v=1716195723",
+            "reviewText":"Great quality! Arrived early and makes a perfect gift!",
+            "customerName":"Erika svichla",
+            "verified":"true"
+        }
+        
+    ]
+}
